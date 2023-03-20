@@ -1,0 +1,30 @@
+ .auth-wrapper{
+    border : 2px solid black;
+    margin: 0px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+ td , th{
+    padding: 12px 15px;
+    margin: 15px;
+    border : 2px solid black;
+     text-align: center;
+     border-width: 2px ;
+}
+
+tr{
+    border-width: 2px 
+}
